@@ -28,7 +28,7 @@
         },
         "token_cp":{
             "description": "𝘌𝘯𝘵𝘦𝘳 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘊𝘭𝘢𝘴𝘴𝘱𝘭𝘶𝘴 𝘛𝘰𝘬𝘦𝘯",
-            "value": "eyJjb3Vyc2VJZCI6IjQ1NjY4NyIsInR1dG9ySWQiOm51bGwsIm9yZ0lkIjo0ODA2MTksImNhdGVnb3J5SWQiOm51bGx9r",
+            "value": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTE2Nzg5ODE5LCJvcmdJZCI6NDg2MjM2LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTc3NjE5MTgzMzkiLCJuYW1lIjoiTWloaXIgS3VtYXIgSmhhIiwiZW1haWwiOiJtaWhpcmpoYTE2MTYxNjE2QGdtYWlsLmNvbSIsImlzSW50ZXJuYXRpb25hbCI6MCwiZGVmYXVsdExhbmd1YWdlIjoiRU4iLCJjb3VudHJ5Q29kZSI6IklOIiwiY291bnRyeUlTTyI6IjkxIiwidGltZXpvbmUiOiJHTVQrNTozMCIsImlzRGl5Ijp0cnVlLCJvcmdDb2RlIjoiY3poZ20iLCJpc0RpeVN1YmFkbWluIjowLCJmaW5nZXJwcmludElkIjoiNjQ2ZDFmOTFjYzYyNGE0YzhlNGRkOGU4MzBjODc4NjgiLCJpYXQiOjE3NDk2NjAxNjksImV4cCI6MTc1MDI2NDk2OX0.tc2J6kqfwwtWFZweilvXBPkf3VplS7XQrHj9R48dYt69rlmXX3CE-4uFo8cPK9FT",
             "required": true
         }
     },
